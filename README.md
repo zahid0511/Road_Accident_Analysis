@@ -123,11 +123,11 @@ The major data preparation steps included:
 Add your dashboard screenshot here:
 
 
-<img width="970" height="642" alt="Screenshot 2026-08-04 105625" src="https://github.com/user-attachments/assets/b51fe985-6f09-4332-90b5-686cc9b0a918" />
 
+![alt text](<images/Screenshot 2026-08-04 123030.png>) 
 
+![alt text](<images/Screenshot 2026-08-04 123044.png>)
 
-<img width="970" height="548" alt="Screenshot 2026-08-04 105615" src="https://github.com/user-attachments/assets/09796472-1f24-4998-9952-97266e2e5702" />
 
 
 
